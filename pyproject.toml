@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hsehack-2023"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "hsehack_2023"}]
+
+[tool.poetry.dependencies]
+python = "^3.8.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
