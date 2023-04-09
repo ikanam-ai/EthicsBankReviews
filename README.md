@@ -4,6 +4,9 @@
 
 The solution is based on a finetuning of BERT-type language models and the use of its embeddings in classification with CatBoost. 
 
+
+P.S We love Yandex.DataSphere! ^_^
+
 ### Project Organization
 ```
 notebooks - Jupyter notebooks
