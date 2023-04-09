@@ -2,6 +2,8 @@
 
 ### HSE Data Science Hack solution by the ikanam team
 
+The solution is based on a file tuning of BERT-type language models and the use of its embeddings in classification with CatBoost. 
+
 ### Project Organization
 ```
 notebooks - Jupyter notebooks
