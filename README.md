@@ -6,9 +6,10 @@ The solution is based on a finetuning of BERT-type language models and the use o
 
 Our results:
 
-The 1st place in leaderboard of metric (ROC_AUC ovr) in both tasks.
+![image](https://user-images.githubusercontent.com/118397273/230964155-02836268-62f7-4f63-82ea-7e038adefe8c.png)
+**The 1st place** in leaderboard of metric (ROC_AUC ovr) in both tasks.
 
-The 4th place in the quality of EDA and visualization.
+**The 4th place** in the quality of EDA and visualization.
 
 
 P.S We love Yandex.DataSphere! ^_^
