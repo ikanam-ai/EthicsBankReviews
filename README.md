@@ -7,6 +7,7 @@ The solution is based on a finetuning of BERT-type language models and the use o
 Our results:
 
 The 1st place in leaderboard of metric (ROC_AUC ovr) in both tasks.
+
 The 4th place in the quality of EDA and visualization.
 
 
